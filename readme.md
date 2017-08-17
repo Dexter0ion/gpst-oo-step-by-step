@@ -1,3 +1,4 @@
+!()[https://github.com/Dexter0ion/gpst-oo-step-by-step/blob/master/nearlyAllPass.PNG?raw=true]
 ## 类和继承
 
 ### 练习1
