@@ -40,7 +40,7 @@ describe("Person", () => {
 
     it("should introduce student is a leader, when class assign this student to be a leader",
     () => {
-      let clazz = new Class(2);
+      let clazz = new Class(2,'Tom');
       let student = new Student("Tom", 21, clazz);
       clazz.assignLeader(student);
       let introduce = student.introduce();
